@@ -1,3 +1,5 @@
+![image](https://www.codewars.com/users/cl940222/badges/small) <br>
+
 - 👋 Hi, I’m @cl940222 Camilla Lee 李筱逵
 - 👀 I’m interested in coding, design, web design
 - 🌱 I’m currently learning javascript, html, css, jquery, planning to learn vue and react.
