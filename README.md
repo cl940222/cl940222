@@ -1,4 +1,3 @@
-![image](https://www.codewars.com/users/cl940222/badges/small) <br>
 
 - 👋 Hi, I’m @cl940222 Camilla Lee 李筱逵
 - 👀 I’m interested in coding, design, web design
@@ -10,4 +9,4 @@ cl940222/cl940222 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm currently 7kyu on codewar.
+![image](https://www.codewars.com/users/cl940222/badges/small) <br>
